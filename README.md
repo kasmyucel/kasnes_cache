@@ -8,7 +8,9 @@ The strategy that includes the aim of the project is provided via the **DataServ
 
 Also the project has a `settings.h` file to provide easy configuration options and **Data class**  as an example data.
 
+
 **Contributors:**
 
 Abdullah Kasım Yücel: Implemented LRUCache, DataService and DBPool mechanism.
+
 Bekir Enes Göğebakan: Implemented TCPServer and ClientPool mechanism.
