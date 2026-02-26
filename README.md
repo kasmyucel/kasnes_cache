@@ -13,4 +13,4 @@ Also the project has a `settings.h` file to provide easy configuration options a
 
 Abdullah Kasım Yücel: Implemented LRUCache, DataService and DBPool mechanism.
 
-Bekir Enes Göğebakan: Implemented TCPServer and ClientPool mechanism.
+Bekir Enes Göğebakan: Implemented TCPServer and ConnectionPool mechanism.
